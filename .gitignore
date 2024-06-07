@@ -1,0 +1,11 @@
+.vscode/
+**__pycache__
+input
+outputs
+runs/
+dentex_dataset
+checkpoints
+others
+unet_train
+unet_test
+results/result.json
